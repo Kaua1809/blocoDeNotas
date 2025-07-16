@@ -1,7 +1,7 @@
 /* Estilos gerais para a página */
 body {
     font-family: sans-serif;
-    background-color: #f0f2f5;
+    background-color: #4e95ff;
     color: #333;
     display: flex;
     justify-content: center;
@@ -12,7 +12,7 @@ body {
 
 /* O contêiner principal que centraliza nosso conteúdo */
 .container {
-    background-color: #ffffff;
+    background-color: #1b11b3;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -26,7 +26,7 @@ h1 {
 }
 
 p {
-    color: #6c757d;
+    color: #ffffff;
     margin-bottom: 20px;
 }
 
